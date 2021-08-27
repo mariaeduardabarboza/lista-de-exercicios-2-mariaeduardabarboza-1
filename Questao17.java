@@ -1,4 +1,4 @@
-public class Questão17 {
+public class Questao17 {
     static final int minimo = 1;
     static final int maximo = 999;
     static final String[] RN_C = {"", "C", "CC", "CCC", "CD", "D", "DC", "DCC", "DCCC", "CM"};
