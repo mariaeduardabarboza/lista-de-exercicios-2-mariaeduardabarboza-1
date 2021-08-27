@@ -13,10 +13,10 @@ public class Questao4
         if (quantidade <=10){
         double precototal = preco * quantidade;
         System.out.println(nomedoproduto+" custa:"+precototal);
-        }if (quantidade > 10 & quantidade < 21){
+        }if (quantidade > 10 & quantidade <= 20){
         double totaldesconto10 = (preco * quantidade)*0.9;
        System.out.println(nomedoproduto+" custa:"+totaldesconto10);
-	    }if (quantidade > 20 & quantidade < 50){
+	    }if (quantidade > 20 & quantidade <= 50){
 	    double totaldesconto20 = (preco * quantidade)*0.8;
 	   System.out.println(nomedoproduto+" custa:"+totaldesconto20);
 	    } if (quantidade > 50){
