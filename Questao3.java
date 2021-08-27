@@ -11,7 +11,7 @@ public class Questao3
 	x2 = teclado.nextFloat(); 
 	y2 = teclado.nextFloat(); 
 	distancia = Math.sqrt(Math.pow(x2 - x1, 2) + Math.pow(y2 - y1, 2)); 
-	System.out.println("A distância é: " + distancia); 
+	System.out.println("A distância é: " + distancia);
 	    
 	} 
     
