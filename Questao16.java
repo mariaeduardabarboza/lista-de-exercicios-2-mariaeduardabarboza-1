@@ -35,11 +35,6 @@ public class Questao16
         }
      }
    }
-
-   public void mostrar()
-   {
-      System.out.println("Hora do momento: "+hora+":"+minuto+":"+segundo);
-   }
 }
 public class Tempo {
 
