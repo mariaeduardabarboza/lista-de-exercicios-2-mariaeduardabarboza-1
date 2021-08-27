@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Questaob {
+public class Questao7b {
 public static void main(String[] args) {
 Scanner teclado = new Scanner(System.in);
 int codigo;
