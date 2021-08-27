@@ -16,4 +16,4 @@ public class Questao3
 	} 
     
 }
-Resolução: O erro é o uso do Math.pow com o uso de (1/2) no programa, sua problemática foi resolvida pelo uso do Math.sqrt.
+
