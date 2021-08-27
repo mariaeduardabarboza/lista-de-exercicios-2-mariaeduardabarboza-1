@@ -6,7 +6,7 @@ int codigo;
 System.out.println("Informe o código: ");
 codigo = teclado.nextInt();
 while (codigo != -1) {
-System.out.println(" Código: " + codigo);
+System.out.println("Código: " + codigo);
 System.out.println("Informe o código: ");
 codigo = teclado.nextInt();
 }
