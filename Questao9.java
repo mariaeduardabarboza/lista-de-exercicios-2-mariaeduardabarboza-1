@@ -10,7 +10,7 @@ System.out.println(i + ", " + j + ", " + k);
 }
 }
 
-////////// Saída do programa:///////////
+////////// Saída do programa///////////
 //2, 2, 1//
 //2, 3, 1//
 //2, 3, 3//
